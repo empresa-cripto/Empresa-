@@ -1,0 +1,14 @@
+SHAYLA ROCHA — SITE DE MANICURE
+
+Como visualizar:
+1. Extraia o arquivo ZIP.
+2. Abra a pasta shayla_rocha_site.
+3. Dê dois cliques em index.html para abrir no navegador.
+
+O site é responsivo e funciona em celular e computador.
+As fotografias da galeria são carregadas de URLs do Unsplash; é necessário estar conectado à internet para visualizá-las.
+
+Contato configurado: (94) 9176-3651
+Localização: Cidade Jardim, Parauapebas – PA
+
+Observação: confirme se o número informado está correto e ativo no WhatsApp. O link usa o formato internacional brasileiro.
